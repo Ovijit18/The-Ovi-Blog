@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Corona disease",
+      "body": "This is very dangerous.",
+      "author": "imran",
+      "id": 3
+    },
+    {
+      "title": "Space research",
+      "body": "Tesla is world best research organization after NASA.",
+      "author": "ovi",
+      "id": 4
+    }
+  ]
+}
